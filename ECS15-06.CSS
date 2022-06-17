@@ -1,0 +1,18 @@
+table, td {
+    text-align: center;
+    border-style: double;
+    border-collapse: collapse;
+    padding: 10px;
+    border-color: black;
+}
+th{
+    background-color: black;
+    color: white;
+}
+
+.texto-vertical-1{
+writing-mode: vertical-lr;
+transform: rotate(180deg);
+}
+
+
